@@ -24,11 +24,6 @@ Open Turbo C / your graphics-supported C environment
 Copy the code into a .c file
 Compile and run
 
-#Controls
-+ ->	Increase speed
--	->  Decrease speed
-ESC ->	Exit program
-
 #Limitations
 Only revolution is implemented (not actual axial rotation)
 Not scaled to real astronomical distances
